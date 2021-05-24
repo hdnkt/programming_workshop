@@ -17,5 +17,5 @@
 ## 関連URL
 - 市報（よく探すとこのイベントの告知が載っています．）
 https://www.city.chofu.tokyo.jp/www/contents/1519890188958/simple/s180305_09.pdf
-- pacpac（のちに商品化を果たした）
+- pacpac（のちに商品化を果たした．）（これを作ったのは先輩で，この体験会ではそれを使わせていただいた）
 https://flovel.co.jp/pacpac.html
